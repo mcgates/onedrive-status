@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=OneDrive Status
+Comment=Show status of the OneDrive sync service
+Exec=onedrive-status
+Icon=folder-cloud
+Terminal=false
+Categories=Utility;
+X-KDE-autostart-after=panel
